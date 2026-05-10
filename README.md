@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome to my profile!
+
+### WHo am I?
+I'm a solo programmer/developer centred in C++, C#, Unity and Unreal Engine!
 
 <!--
 **PUFFMON/PUFFMON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
